@@ -1,0 +1,2 @@
+GaborLLM
+mvn compile assembly:single ; java -jar C:\Users\erak5\Downloads\GaborLLM\GaborLLM2\GaborLLM2\demo\target\demo-1.0-SNAPSHOT-jar-with-dependencies.jar
